@@ -1,2 +1,2 @@
-# template-projects
-Simple CDS template projects
+# Simple CDS Template Projects
+CDS Template Project to start with.
